@@ -5,7 +5,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 w-full bg-blue-600 backdrop-blur-md px-8 py-4 flex justify-between items-center z-50 text-white">
+    <nav className="fixed w-full bg-blue-600 backdrop-blur-md px-8 py-4 flex justify-between items-center z-50 text-white">
       <h1 className="text-xl font-bold"><a href="#">Linear</a></h1>
 
       {/* Desktop */}
