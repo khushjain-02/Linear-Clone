@@ -34,7 +34,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       {open && (
-        <div className="absolute left-0 right-0 top-full z-40 bg-white p-6 flex flex-col gap-6 ">
+        <div className="absolute left-0 right-0 top-full z-40 bg-rose-300 p-6 flex flex-col gap-6 ">
           <a href="#features">Features</a>
           <a href="#about">About</a>
           <a href="#testimonials">Testimonials</a>
