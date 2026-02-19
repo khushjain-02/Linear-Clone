@@ -7,7 +7,7 @@ Built to showcase strong UI skills, reusable components, animations, and clean R
 
 Deployed on Vercel
 
-👉 https://linear-clone-cyan.vercel.app
+👉 https://linear-clone-q3kw.vercel.app
 
 📸 Screenshots
 
@@ -17,7 +17,7 @@ Deployed on Vercel
 
 📱 Mobile View
 
-
+![WhatsApp Image 2026-02-18 at 8 51 39 PM](https://github.com/user-attachments/assets/7e3f31a5-ce9e-4add-a684-d9eb1ee9e274)
 
 
 🔥 Tech Stack
