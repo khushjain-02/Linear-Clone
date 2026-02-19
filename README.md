@@ -7,13 +7,13 @@ Built to showcase strong UI skills, reusable components, animations, and clean R
 
 Deployed on Vercel
 
-👉 https://linear-clone-q3kw.vercel.app
+👉 https://linear-clone-cyan.vercel.app
 
 📸 Screenshots
 
 🖥 Desktop View
 
-
+![alt text](<../../Videos/Pictures/Screenshots/Screenshot (32).png>)
 
 📱 Mobile View
 
