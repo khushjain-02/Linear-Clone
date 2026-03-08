@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="py-10 text-center border-t border-gray-800">
-      <p className="text-gray-500">
-        © 2026 Linear Clone. Built with React + Tailwind.
+    <footer className="border-t border-slate-800 bg-slate-950 px-4 py-10 text-center md:px-6 lg:px-8">
+      <p className="text-xs text-slate-500 md:text-sm">
+        © 2026 Linear Clone · Built with React &amp; Tailwind CSS.
       </p>
     </footer>
   );
